@@ -1,0 +1,15 @@
+roteiro:
+  atenas:
+    prompt: >
+      Liste 3 pontos turísticos de Atenas no seguinte formato JSON:
+      [
+        {"nome": "nome do ponto turístico", "descricao": "breve descrição", "visitantes": "número anual de visitantes"},
+        ...
+      ]
+  roma:
+    prompt: >
+      Liste 3 pontos turísticos de Roma no seguinte formato JSON:
+      [
+        {"nome": "nome do ponto turístico", "descricao": "breve descrição", "visitantes": "número anual de visitantes"},
+        ...
+      ]
